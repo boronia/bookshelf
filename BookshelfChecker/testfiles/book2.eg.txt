@@ -1,0 +1,34 @@
+{
+   "index_searched" : "isbn",
+   "data" : [
+      {
+         "publisher_id" : "viz_media_llc",
+         "notes" : "",
+         "awards_text" : "",
+         "lcc_number" : "",
+         "language" : "",
+         "author_data" : [
+            {
+               "id" : "hoshino_katsura",
+               "name" : "Hoshino Katsura"
+            }
+         ],
+         "dewey_decimal" : "741",
+         "title_latin" : "D.Gray-man, Volume 8",
+         "book_id" : "d_gray_man_volume_8",
+         "edition_info" : "Paperback; 2008-02-05",
+         "publisher_text" : "VIZ Media LLC",
+         "marc_enc_level" : "~",
+         "urls_text" : "",
+         "title" : "D.Gray-man, Volume 8",
+         "publisher_name" : "VIZ Media LLC",
+         "dewey_normal" : "741",
+         "title_long" : "",
+         "physical_description_text" : "192 pages",
+         "isbn10" : "1421515431",
+         "isbn13" : "9781421515434",
+         "subject_ids" : [],
+         "summary" : "The battle on the sea continues, with the swarm of evolved akuma pressing hard on the Exorcists. Lenalee tries to tackle one akuma on her own, but realizes she can prevail only by unleashing the full force of her Innocence. Back on the ship Lavi prepares to call on a special attribute of his own Innocence. Will any of this be enough? Can the Exorcists hold on, or will they need help that may or may not come?"
+      }
+   ]
+}

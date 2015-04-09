@@ -1,0 +1,36 @@
+{
+   "index_searched" : "isbn",
+   "data" : [
+      {
+         "isbn10" : "1421535378",
+         "urls_text" : "",
+         "lcc_number" : "",
+         "edition_info" : "Paperback; 2012-02-14",
+         "awards_text" : "",
+         "isbn13" : "9781421535371",
+         "marc_enc_level" : "~",
+         "physical_description_text" : "",
+         "dewey_normal" : "741",
+         "publisher_text" : "VIZ Media LLC",
+         "title_long" : "",
+         "book_id" : "naoki_urasawas_20th_century_boys_vol_19",
+         "publisher_id" : "viz_media_llc",
+         "subject_ids" : [
+            "comics_graphic_novels_manga"
+         ],
+         "author_data" : [
+            {
+               "id" : "naoki_urasawa",
+               "name" : "Naoki Urasawa"
+            }
+         ],
+         "publisher_name" : "VIZ Media LLC",
+         "title_latin" : "Naoki Urasawa's 20th Century Boys, Vol. 19",
+         "language" : "",
+         "summary" : "Reads R to L (Japanese Style), for audiences T+. Humanity, having faced extinction at the end of the 20th century, would not have entered the new millennium if it weren't for them. In 1969, during their youth, they created a symbol. In 1997, as the coming disaster slowly starts to unfold, that symbol returns. This is the story of a group of boys who try to save the world. The man with the guitar heads for Tokyo and arrives at a rough-and-tumble border town with an ominous-looking checkpoint. Only those who have a pass may go through, and those who try to get by without one are summarily shot. Many have tried, and many are buried nearby. Who can change this horrific situation and get through the checkpoint? And who or what could be waiting on the other side?",
+         "notes" : "",
+         "dewey_decimal" : "741",
+         "title" : "Naoki Urasawa's 20th Century Boys, Vol. 19"
+      }
+   ]
+}
